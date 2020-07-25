@@ -1,5 +1,7 @@
 # Hi, I'm Arslan 👋✨
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ArslanAli5" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Follow @ArslanAli5 on GitHub">Follow @ArslanAli5</a>
 
