@@ -1,5 +1,8 @@
 # Hi, I'm Arslan 👋✨
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ArslanAli5" data-color-scheme="no-preference: dark; light: light; dark: dark;" aria-label="Follow @ArslanAli5 on GitHub">Follow @ArslanAli5</a>
+
 [![fork my repository](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)](https://github.com/user/repository/fork)
 ![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg)](https://coveralls.io/github/ntkme/github-buttons)
