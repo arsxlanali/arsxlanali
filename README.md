@@ -1,6 +1,6 @@
 # Hi, I'm Arslan 👋✨
 
-[fork my repository](https://github.com/user/repository/fork)
+![fork my repository](https://github.com/user/repository/fork)
 ![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg)](https://coveralls.io/github/ntkme/github-buttons)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons)
