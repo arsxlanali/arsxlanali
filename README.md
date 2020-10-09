@@ -6,10 +6,6 @@
 I'm currently a Computer Scinece student at CUI Lahore Campus. I am very passionate about the Data Scinece domain. I have some experience of working on the real world Data Science projects. I have completed the Data Scinece Professional certificate course form Coursea. Now, I am able to do basic data analysis using Python.
 
 
-## Find me on:
-
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=ArslanAli5&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanAli5&layout=compact)](https://github.com/ArslanAli5/github-readme-stats)
 
 ### Connect with me:
 
@@ -34,3 +30,8 @@ I'm currently a Computer Scinece student at CUI Lahore Campus. I am very passion
 [instagram]: https://instagram.com/arslanali_5
 [linkedin]: https://www.linkedin.com/in/arslanali5/
 [facebook]: https://www.facebook.com/sarslanali5432
+## Github Stats:
+
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=ArslanAli5&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanAli5&layout=compact)](https://github.com/ArslanAli5/github-readme-stats)
+
