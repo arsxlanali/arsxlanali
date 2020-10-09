@@ -30,7 +30,8 @@ I'm currently a Computer Scinece student at CUI Lahore Campus. I am very passion
 [instagram]: https://instagram.com/arslanali_5
 [linkedin]: https://www.linkedin.com/in/arslanali5/
 [facebook]: https://www.facebook.com/sarslanali5432
-## Github Stats:
+<br />
+### Github Stats:
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=ArslanAli5&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanAli5&layout=compact)](https://github.com/ArslanAli5/github-readme-stats)
