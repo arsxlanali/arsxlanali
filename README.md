@@ -13,7 +13,7 @@ I'm currently a Computer Scinece student at CUI Lahore Campus. I am very passion
 
 
 
-  [<img src="https://user-images.githubusercontent.com/53117861/95576832-8f1f8f80-0a4a-11eb-90ac-098001bb839e.png" />](https://www.linkedin.com/in/arslanali/) 
+  [<img src="https://user-images.githubusercontent.com/53117861/95578413-487f6480-0a4d-11eb-8709-a8d4e811ce72.jpg" />](https://www.linkedin.com/in/arslanali/) 
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itzaniket_762/) 
   [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100005738866655)
 
