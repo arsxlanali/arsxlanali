@@ -26,7 +26,7 @@ I'm currently a Computer Scinece student at CUI Lahore Campus. I am passionate a
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-[twitter]: https://twitter.com/arslanali_5
+[twitter]: https://twitter.com/arsxlanali
 [instagram]: https://instagram.com/arslanali_5
 [linkedin]: https://www.linkedin.com/in/arslanali5/
 [facebook]: https://www.facebook.com/sarslanali5432
