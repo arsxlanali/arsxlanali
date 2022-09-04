@@ -27,9 +27,9 @@ I'm currently a Computer Scinece student at CUI Lahore Campus. I am passionate a
 
 
 [twitter]: https://twitter.com/arsxlanali
-[instagram]: https://instagram.com/arslanali_5
-[linkedin]: https://www.linkedin.com/in/arslanali5/
-[facebook]: https://www.facebook.com/sarslanali5432
+[instagram]: https://instagram.com/arxlanali
+[linkedin]: https://www.linkedin.com/in/arsxlanali
+[facebook]: https://www.facebook.com/arsxlanali
 <br />
 
 
