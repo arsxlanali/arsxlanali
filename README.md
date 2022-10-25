@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/53117861/88454705-c4c0cd80-ce8a-11ea-92ca-82e08bac7cf5.jpg" alt="banner says Arslan Ali - Computer Scientist, Data Analysts, Problem Solver along with cartoon illustration">
 
 
-I'm currently a Computer Scinece student at CUI Lahore Campus. I am passionate about the Data Scinece and Cloud Computing. I have some experience of working on the real world Data Science projects and I have also worked on the different Cloud Platfroms such as Google Cloud and Microsoft Azure. I have completed some of the Data Analytics courses form Coursea. Now, I am able to do data analysis using Python.
+I'm currently a Computer Scinece student at CUI Lahore Campus. I am passionate about the Frontend Engineering, Data Scinece and Cloud Computing. I have some experience of working on the real world Data Science projects and I have also worked on the different Cloud Platfroms such as Google Cloud and Microsoft Azure. I have completed some of the Data Analytics courses form Coursea. Now, I am able to do data analysis using Python.
 
 
 
