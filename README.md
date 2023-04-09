@@ -3,7 +3,11 @@
 <img src="https://user-images.githubusercontent.com/53117861/88454705-c4c0cd80-ce8a-11ea-92ca-82e08bac7cf5.jpg" alt="banner says Arslan Ali - Computer Scientist, Data Analysts, Problem Solver along with cartoon illustration">
 
 
-I'm currently a Computer Scinece student at CUI Lahore Campus. I am passionate about the Frontend Engineering, Data Scinece and Cloud Computing. I have some experience of working on the real world Data Science projects and I have also worked on the different Cloud Platfroms such as Google Cloud and Microsoft Azure. I have completed some of the Data Analytics courses form Coursea. Now, I am able to do data analysis using Python.
+I am a dedicated Front End Engineer with experience in developing and improving web applications. In my current role at The Dev Corporate, I have successfully fixed UI and functionality issues in a blockchain storage application and implemented changes to enhance functionality in a Clarity Go web application. I have also collaborated with my team using version control and implemented unit tests for UI and functions.
+
+During my Front End Development Internship, I learned core concepts of JavaScript and React Js and developed an application called Time-Tracking to measure employee productivity, reducing time spent on tracking by 20%. I collaborated with my team using version control and was selected to work on a real-world project based on performance.
+
+I have a Bachelor of Science in Computer Science from COMSATS University Islamabad, Lahore Campus, and have earned certifications in Microsoft Azure Fundamentals, Machine Learning, and IBM Data Science Professional. My technical skills include JavaScript, React, Next Js, Nest Js, Git, Python, HTML, and SQL, among others. Additionally, I possess strong interpersonal, collaboration, analytical, problem-solving, and time management skills.
 
 
 
