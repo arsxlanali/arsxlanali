@@ -1,39 +1,18 @@
-# Hi, I'm Arslan 👋✨
-
-<img src="https://user-images.githubusercontent.com/53117861/88454705-c4c0cd80-ce8a-11ea-92ca-82e08bac7cf5.jpg" alt="banner says Arslan Ali - Computer Scientist, Data Analysts, Problem Solver along with cartoon illustration">
-
-
-I am a dedicated Front End Engineer with experience in developing and improving web applications. In my current role at The Dev Corporate, I have successfully fixed UI and functionality issues in a blockchain storage application and implemented changes to enhance functionality in a Clarity Go web application. I have also collaborated with my team using version control and implemented unit tests for UI and functions.
-
-During my Front End Development Internship, I learned core concepts of JavaScript and React Js and developed an application called Time-Tracking to measure employee productivity, reducing time spent on tracking by 20%. I collaborated with my team using version control and was selected to work on a real-world project based on performance.
-
-I have a Bachelor of Science in Computer Science from COMSATS University Islamabad, Lahore Campus, and have earned certifications in Microsoft Azure Fundamentals, Machine Learning, and IBM Data Science Professional. My technical skills include JavaScript, React, Next Js, Nest Js, Git, Python, HTML, and SQL, among others. Additionally, I possess strong interpersonal, collaboration, analytical, problem-solving, and time management skills.
+# 💫 About Me:
+👋 Hi there! I'm Arslan Ali<br>🌐 Frontend Developer passionate about building dynamic and interactive web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React.js, Next.js, jQuery, HTML5, CSS3.<br>🛠️ Tools & Libraries: GraphQL, RESTful APIs, Select2, DataTables, Webpack, and more.<br>🚀 Projects: Worked on LLM projects in the insurance, travel, and education industries.<br>📊 Optimization Enthusiast: Focused on performance improvements for React.js and JavaScript applications.<br>🔍 Learning & Sharing: Love sharing educational content.<br>🤝 Open to Collaboration: Let's connect and create something amazing!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@arsxlanali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@arsxlanali) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@arsxlanali) 
 
-### Connect with me:
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxDB](https://img.shields.io/badge/rxdb-%238D1F89.svg?style=for-the-badge&logo=rxdb&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arsxlanali&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arsxlanali&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsxlanali&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[<img align="left" alt="Arslan Ali | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arslna Ali | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arslan Ali | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
+[![](https://visitcount.itsvg.in/api?id=arsxlanali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="30px" src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" />
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-[twitter]: https://twitter.com/arsxlanali
-[instagram]: https://instagram.com/arsxlanali
-[linkedin]: https://www.linkedin.com/in/arsxlanali
-[facebook]: https://www.facebook.com/arsxlanali
-<br />
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
