@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Arslan Ali 👋
 
 ### Full-Stack Engineer · AI & Backend Systems · Cloud
@@ -25,10 +24,6 @@ I enjoy working across the stack — from designing APIs and backend services to
 * Distributed and cloud-native systems
 * API & third-party integrations
 * Developer tooling and automation
-
-### Connect
-
-[LinkedIn](https://linkedin.com/in/arsxlanali) · [Portfolio](https://arsxlanali.github.io) · [Email](mailto:arsxlanali@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsxlanali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arsxlanali) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arsxlanali) 
