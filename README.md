@@ -1,6 +1,34 @@
 # 💫 About Me:
-👋 Hi there! I'm Arslan Ali<br>🌐 Frontend Developer passionate about building dynamic and interactive web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React.js, Next.js, jQuery, HTML5, CSS3.<br>🛠️ Tools & Libraries: GraphQL, RESTful APIs, Select2, DataTables, Webpack, and more.<br>🚀 Projects: Worked on LLM projects in the insurance, travel, and education industries.<br>📊 Optimization Enthusiast: Focused on performance improvements for React.js and JavaScript applications.<br>🔍 Learning & Sharing: Love sharing educational content.<br>🤝 Open to Collaboration: Let's connect and create something amazing!
+# Hi, I'm Arslan Ali 👋
 
+### Full-Stack Engineer · AI & Backend Systems · Cloud
+
+I'm a Full-Stack Engineer with 4+ years of experience building production web applications, backend services, cloud infrastructure, and AI-powered systems.
+
+I enjoy working across the stack — from designing APIs and backend services to building React applications, integrating external platforms, and deploying scalable cloud infrastructure.
+
+### What I work with
+
+* 🤖 **AI & LLMs** — AI agents, LLM integrations, Google ADK, OpenAI, LangChain
+* ⚙️ **Backend** — Node.js, Express, TypeScript, Python, REST, GraphQL
+* 🎨 **Frontend** — React, Next.js, TypeScript
+* ☁️ **Cloud & DevOps** — AWS, GCP, Docker, GitHub Actions, CI/CD
+* 🗄️ **Databases** — PostgreSQL, MongoDB, MySQL
+* 🔗 **Integrations** — Third-party APIs, authentication, KYC/KYB/AML workflows
+* 🏗️ **Architecture** — Microservices, serverless applications, cloud-native systems
+
+### Currently Interested In
+
+* AI-native applications
+* Backend & platform engineering
+* Fintech / RegTech
+* Distributed and cloud-native systems
+* API & third-party integrations
+* Developer tooling and automation
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/arsxlanali) · [Portfolio](https://arsxlanali.github.io) · [Email](mailto:arsxlanali@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsxlanali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arsxlanali) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arsxlanali) 
